@@ -25,6 +25,6 @@ class TokaPanelInstallCommand extends Command
      */
     public function handle(): void
     {
-        $this->info('TokaPanelInstallCommand handle');
+        $this->info('Installing TokaPanel...');
     }
 }
